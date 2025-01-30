@@ -4,7 +4,7 @@
   Tela Web de cadastro para projeto de TCC desenvolvida com ```JavaScript```, ```PHP```, ```JQuery``` e requisições assíncronas ```AJAX```.
   
 ## COMO FUNCIONA?
-   Recebe informações do usuário em uma interface de formulário de cadastro intuitiva e as processa em um script PHP através de uma requisição assíncrona AJAX.  
+   Recebe informações do usuário em uma interface de formulário de cadastro intuitiva e as processa em um script PHP através de uma requisição assíncrona AJAX. Temporariamente hospedado no GitHub Pages para efeito de visualização, somente.  
   
 ## O QUE FAZ?
 
@@ -27,7 +27,7 @@
   
 ## HOW DOES IT WORK?
 
-  Receives info submitted by the user through an intuitive form sign up interface and processes this information in a PHP script through Asynchronous Javascript and XML.
+  Receives info submitted by the user through an intuitive form sign up interface and processes this information in a PHP script through Asynchronous Javascript and XML. Temporarily hosted by GitHub pages for the effects of display, only.
     
 ## WHAT DOES IT DO?
 
